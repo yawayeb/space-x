@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#space {
+    background-image: url("images/SPACE.jpg");
+    background-size: cover;
+    background-position: bottom;
+    padding: 50px 0px 500px 0px;
+    text-align: center;
+    color: #EDB654ff;
+
+}
+
+#space h1{
+    text-shadow: 2px -2px 4px rgb(80, 45, 11);
+}
+
+#main-logo {
+    width: 100px;
+}
+
+
+
+.btn {
+    padding: 6px 12px;
+    background-color: white;
+    border: none;
+    background: #EDB654ff;
+    font-family: inherit;
+    font-weight: 800;
+}
+
+.Underline{
+    border-bottom: 4px solid;
+}
+
+.terms {
+    font-size: 40px;
+    text-align: center;
+    color:#569DCDff;
+}
